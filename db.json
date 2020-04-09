@@ -3,7 +3,8 @@
     "applications": [
       "mingle-search",
       "koch",
-      "movie-search"
+      "movie-search",
+      "concierge"
     ],
     "request": {
       
