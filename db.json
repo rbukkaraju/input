@@ -1,5 +1,5 @@
 {
-  "request": {
+  "request1": {
     "applications": [
       "mingle",
       "movie",
@@ -9,5 +9,20 @@
       "text":"hello",
       "repositories":["repo1", "repo2"]
     }
+  },
+  {
+  "request2": {
+    "applications": [
+      "mingle",
+      "movie",
+      "concierge",
+      "koch"
+    ],
+    "request": {
+      "text":"kb123456",
+      "repositories":["kbrepo1", "kbrepo2"]
+    }
   }
+}
+
 }
