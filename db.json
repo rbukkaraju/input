@@ -1,5 +1,7 @@
 {
-  "request1": {
+  "request": [
+    {
+      "id":"no-koch-access",
     "applications": [
       "mingle",
       "movie",
@@ -11,7 +13,7 @@
     }
   },
   {
-  "request2": {
+    "id":"koch-access",
     "applications": [
       "mingle",
       "movie",
