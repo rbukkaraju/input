@@ -3,7 +3,8 @@
     "applications": [
       "mingle",
       "koch",
-      "movie"
+      "movie",
+      "concierge"
     ],
     "request": {
       "text":"hello",
