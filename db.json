@@ -1,13 +1,13 @@
 {
   "request": {
     "applications": [
-      "mingle-search",
+      "mingle",
       "koch",
-      "movie-search",
-      "local-app"
+      "movie"
     ],
     "request": {
-      
+      "text":"hello",
+      "repositories":["repo1", "repo2"]
     }
   }
 }
